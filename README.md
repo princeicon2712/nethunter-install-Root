@@ -10,3 +10,9 @@
 (৪) kalolinux famwer file magick দিয়ে flash করতে হবে।
 
 (৫) nethunder সেটিং বিতরে গিয়ে update and upgrade করতে হবে।
+
+# termux noob kaliliunx 
+
+(1) mv nh $PREFIX/bin
+
+(2) sudo chmod 755 /data/data/com.termux/files/usr/bin/nh

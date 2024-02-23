@@ -1,0 +1,3 @@
+#!/data/data/com.termux/files/usr/bin/bash
+
+PREFIX=/usr BINDIR=/bin su -c /data/data/com.offsec.nethunter/files/scripts/bootkali

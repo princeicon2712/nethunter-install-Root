@@ -1,7 +1,12 @@
 # nethunter-install-Root
 
 (1) nethunter file Download করতে হবে।
-   link:- https://www.kali.org/get-kali/#kali-mobile
+   link:-  https://kali.download/nethunter-images/ 
+
+ ## Or google sharce :-
+
+ index of kali nethunter
+ 
 
 (২) magick aps দিয়ে flash করতে হবে।
 

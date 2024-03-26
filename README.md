@@ -2,6 +2,8 @@
 
 (1) nethunter file Download করতে হবে।
    link:-  https://kali.download/nethunter-images/ 
+   i need update tool:-  kali-2023.4 generic-arm-64
+   
 
  ## Or google sharce :-
 

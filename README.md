@@ -23,3 +23,10 @@
 (1) mv nh $PREFIX/bin
 
 (2) sudo chmod 755 /data/data/com.termux/files/usr/bin/nh
+
+## Nethunter:--- 
+
+nano /etc/resolv.conf
+
+google ip :- 8.8.8.8
+

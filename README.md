@@ -1,7 +1,9 @@
 # nethunter-install-Root
 
 (1) nethunter file Download করতে হবে।
+   
    link:-  https://kali.download/nethunter-images/ 
+   
    i need update tool:-  kali-2023.4 generic-arm-64
    
 
@@ -20,13 +22,13 @@
 
 # termux noob kaliliunx 
 
-(1) mv nh $PREFIX/bin
+``` (1) mv nh $PREFIX/bin ```
 
-(2) sudo chmod 755 /data/data/com.termux/files/usr/bin/nh
+``` (2) sudo chmod 755 /data/data/com.termux/files/usr/bin/nh ```
 
 ## Nethunter:--- 
 
-nano /etc/resolv.conf
+``` nano /etc/resolv.conf ```
 
-google ip :- 8.8.8.8
+``` google ip :- 8.8.8.8 ```
 

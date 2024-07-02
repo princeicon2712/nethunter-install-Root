@@ -20,11 +20,11 @@
 
 (৫) nethunder সেটিং বিতরে গিয়ে update and upgrade করতে হবে।
 
-# termux noob kaliliunx 
+# termux noob kalil-iunx 
 
-``` (1) mv nh $PREFIX/bin ```
+```  mv nh $PREFIX/bin ```
 
-``` (2) sudo chmod 755 /data/data/com.termux/files/usr/bin/nh ```
+```  sudo chmod 755 /data/data/com.termux/files/usr/bin/nh ```
 
 ## Nethunter:--- 
 
